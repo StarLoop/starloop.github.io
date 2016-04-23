@@ -4,3 +4,7 @@
 [submodule "task19"]
 	path = task19
 	url = https://github.com/StarLoop/ife-task19.git
+[submodule "task26"]
+	path = task26
+	url = https://github.com/StarLoop/ife-task26.git
+	branch = master
